@@ -6,8 +6,8 @@ sudo rm /etc/apparmor.d/docker
 sudo groupdel docker
 sudo rm -rf /var/run/docker.sock
 
-$ sudo apt-get update
-$ sudo apt install docker.io
-$ sudo snap install docker
+sudo apt-get update
+sudo apt install docker.io
+sudo snap install docker
 
 
