@@ -35,6 +35,8 @@ def index_data(index_name, num_of_data):
             pass
         print(i)
     wait_here(endTime)
+
+# Start from here
 if __name__ == "__main__":
     index_name='students'
     num_of_data=10
